@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CiSTUP_Internship_Website_Task4/index.html/static/css/main.76352c91.css",
-    "main.js": "/CiSTUP_Internship_Website_Task4/index.html/static/js/main.41b55c70.js",
-    "static/js/787.28cb0dcd.chunk.js": "/CiSTUP_Internship_Website_Task4/index.html/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/CiSTUP_Internship_Website_Task4/index.html/index.html",
-    "main.76352c91.css.map": "/CiSTUP_Internship_Website_Task4/index.html/static/css/main.76352c91.css.map",
-    "main.41b55c70.js.map": "/CiSTUP_Internship_Website_Task4/index.html/static/js/main.41b55c70.js.map",
-    "787.28cb0dcd.chunk.js.map": "/CiSTUP_Internship_Website_Task4/index.html/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/index.html/static/css/main.76352c91.css",
+    "main.js": "/index.html/static/js/main.4a182399.js",
+    "static/js/787.28cb0dcd.chunk.js": "/index.html/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/index.html/index.html",
+    "main.76352c91.css.map": "/index.html/static/css/main.76352c91.css.map",
+    "main.4a182399.js.map": "/index.html/static/js/main.4a182399.js.map",
+    "787.28cb0dcd.chunk.js.map": "/index.html/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.76352c91.css",
-    "static/js/main.41b55c70.js"
+    "static/js/main.4a182399.js"
   ]
 }
