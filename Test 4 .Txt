@@ -1,0 +1,45 @@
+Centre for infrastructure, 
+SustainableTransportation and
+Urban Planning
+Indian Institute of Science (IISc), Bengaluru
+Summer Internship: Round 1
+The aim of this exam is to test your web development skills using React.js . This exam includes a web SPA 
+development task and partial solutions will also be considered while shortlisting for subsequent rounds.
+Hence, you are encouraged to submit the best possible code. Follow the instructions below precisely.
+• Plagiarism will result in instant disqualification. You must write your own code.
+• You are required to host the coded web application in GitHub and share the link of the same while 
+you submit your response. 
+• You are free to use any open-source libraries / frameworks for this coding exam.
+• To make your submission, use the following Google form: submission link. You are allowed to make
+only one submission for this test. While submitting, you will be asked to upload three items:
+– A zip file consisting of the React.js code (or) drive link to the React.js code.
+– GitHub link of the webpage.
+– A report (format: pdf ) summarizing all of the below information:
+• Pre-requisites for running the application in development mode
+• Details of the open-source frameworks or libraries used for development of the 
+webpage
+• Any assumptions made while developing the code
+• Steps to run the code in development mode.
+• Your submissions will be evaluated based on the quality of the report and codes. More weightage 
+will be given to the styling of components and the overall look and feel of the webpage.
+• Add comments to your code, so that any other person going through the code can find it easy to follow.
+• The sample web page screenshots shared in this task need not be exactly re-created and you are 
+free to experiment with the styling of the page. However, there should be no change to the logic and 
+the format shared in the task.
+• Make sure that the code shared is free of any compilation errors. It is okay if the task is incomplete, 
+but the code should be free of compilation errors when it is run in the development code. 
+• In case you are submitting an incomplete code, please mention the details of the complete and incomplete portions of the task in the final report.
+• The test commences on 8
+th April 2023 (10:00 AM). The last date for submission is 10th
+ April
+2023(10:00 AM). Late submissions will not be accepted.
+• Feel free to route any queries related to the coding task to sandhyasouri@iisc.ac.in
+• This project will be used to shortlist for the following projects:
+– Development of React.js based in-house transit / household data collection tool
+All the best.
+CiSTUP
+IISc, Bengaluru
+
+
+
+

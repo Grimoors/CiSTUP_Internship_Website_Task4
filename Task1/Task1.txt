@@ -1,0 +1,28 @@
+Coding task: Design a React.js based UI with pages as described below:
+
+(1)Page 1 (Home page)
+Title of the page: Respondent Travel profile
+
+Logic for page design:
+
+This page should include two questions with radio button options. The questions and options to 
+be shown are listed below:
+Q1: What is your most frequently used means of travel from your home to work location?
+Options for Q1 (to be shown as radio button): 
+• Bus
+• Metro
+• Own Two-wheeler
+• Own Car
+• Walk / Bicycle
+• Auto
+• App based ride hailing cab services including Ola / Uber
+
+Q2: What is the total distance between your home and workplace?
+Options for Q2 (to be shown as radio button): 
+• < 5 km
+• 5 - 10 km 
+• 10- 15 km 
+• 15- 20 km 
+• 20- 25 km
+• > 25 km
+The responses selected for Q1 and Q2 in Page 1 will impact the display of options in Page 2.

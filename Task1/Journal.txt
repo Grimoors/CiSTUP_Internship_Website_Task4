@@ -1,0 +1,51 @@
+On the Command Line -> 
+
+npx create-react-app my-app
+cd my-app
+npm start
+
+This will create a new React app in a folder called my-app. It will also start a development server so you can see your app in action.
+
+After making the React App; Getting Started on Task 1 (Reffering to Task1.txt)
+
+Need to make a UI , with 2 Questions with radio buttons and a submit button.
+
+Q1: What is your most frequently used means of travel from your home to work location?
+Options for Q1 (to be shown as radio button): 
+• Bus
+• Metro
+• Own Two-wheeler
+• Own Car
+• Walk / Bicycle
+• Auto
+• App based ride hailing cab services including Ola / Uber
+
+Q2: What is the total distance between your home and workplace?
+Options for Q2 (to be shown as radio button): 
+• < 5 km
+• 5 - 10 km 
+• 10- 15 km 
+• 15- 20 km 
+• 20- 25 km
+• > 25 km
+
+
+I Choose to use React Bootstrap for the UI. 
+
+To install React Bootstrap in your React app, you need to install the following packages:
+
+npm install react-bootstrap bootstrap
+
+Installed React Bootstrap and Bootstrap.
+
+Used normal JS and react, made a Plain UI with 2 Questions and 2 Radio Buttons each.
+
+screenshots stored in Task1 folder. as Task1_1.png 
+
+As the UI has all the radio buttons in the same Line; I will Try to make it into 2 columns. 
+
+I used form-check; form-check-input ; from Bootstrap to style the radio buttons and labels, and the row and col-sm-6 classes to the split the colums into two columns.
+
+I have used the following components from React Bootstrap:  Form, Button, Row, Col, FormCheck, FormCheckInput, FormCheckLabel
+
+
